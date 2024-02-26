@@ -1,83 +1,18 @@
 [
-  
   {
-    "saldo": 50,
-    "quando": "07/03/24",
+    "saldo": 0.00,
+    "quando": "00/00/00",
     "motivos": {
       "saidas": [
-        "Ida | Culto de Jovens"
+        "*"
       ],
       "entradas": [
-        "Cota | Arrecadado para ir ao Culto de Jovens"
+        "*"
       ]
     },
     "valores": {
-      "saidas": [300],
-      "entradas": [100]
-    }
-  },
-  {
-    "saldo": 250,
-    "quando": "07/03/24",
-    "motivos": {
-      "saidas": [
-        "Chácara | Dia de lazer jovens"
-      ],
-      "entradas": [
-        "Clécio | Rifa para chácara"
-      ]
-    },
-    "valores": {
-      "saidas": [250],
-      "entradas": [500]
-    }
-  },
-  {
-    "saldo": 20,
-    "quando": "03/03/24",
-    "motivos": {
-      "saidas": [
-        "Pagar | Preletor do Culto de Jovens"
-      ],
-      "entradas": [
-        "Ofertas | Culto de Jovens"
-      ]
-    },
-    "valores": {
-      "saidas": [25],
-      "entradas": [36.90]
-    }
-  },
-  {
-    "saldo": 55,
-    "quando": "30/02/24",
-    "motivos": {
-      "saidas": [
-        "Nada contra"
-      ],
-      "entradas": [
-        "Doação | Miller"
-      ]
-    },
-    "valores": {
-      "saidas": [5],
-      "entradas": [60]
-    }
-  },
-  {
-    "saldo": 5.2,
-    "quando": "25/02/24",
-    "motivos": {
-      "saidas": [
-        "Pagar | Preletor do Culto de Jovens"
-      ],
-      "entradas": [
-        "Ofertas | Culto de Jovens"
-      ]
-    },
-    "valores": {
-      "saidas": [50],
-      "entradas": [27.2]
+      "saidas": [0.00],
+      "entradas": [0.00]
     }
   }
 ]
