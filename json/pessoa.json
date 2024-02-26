@@ -1,6 +1,2 @@
-[
-  {
-    "nome": "Clécio",
-    "idade": 22
-  }
+{"saldo":5.2,"quando":"25/02/24","motivos":{"saidas":["Pagar | Preletor do Culto de Jovens"],"entradas":["Ofertas | Culto de Jovens"]},"valores":{"saidas":[50],"entradas":[27.2]}}
 ]
