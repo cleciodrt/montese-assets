@@ -1,5 +1,21 @@
 [
   {
+    "saldo": 250,
+    "quando": "07/03/24",
+    "motivos": {
+      "saidas": [
+        "Chácara | Dia de lazer jovens"
+      ],
+      "entradas": [
+        "Clécio | Rifa para chácara"
+      ]
+    },
+    "valores": {
+      "saidas": [250],
+      "entradas": [500]
+    }
+  },
+  {
     "saldo": 20,
     "quando": "03/03/24",
     "motivos": {
