@@ -1,5 +1,21 @@
 [
   {
+    "saldo": 55,
+    "quando": "30/02/24",
+    "motivos": {
+      "saidas": [
+        "Nada contra"
+      ],
+      "entradas": [
+        "Doação | Miller"
+      ]
+    },
+    "valores": {
+      "saidas": [5],
+      "entradas": [60]
+    }
+  },
+  {
     "saldo": 5.2,
     "quando": "25/02/24",
     "motivos": {
