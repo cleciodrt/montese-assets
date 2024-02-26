@@ -1,4 +1,21 @@
 [
+  
+  {
+    "saldo": 50,
+    "quando": "07/03/24",
+    "motivos": {
+      "saidas": [
+        "Ida | Culto de Jovens"
+      ],
+      "entradas": [
+        "Cota | Arrecadado para ir ao Culto de Jovens"
+      ]
+    },
+    "valores": {
+      "saidas": [300],
+      "entradas": [100]
+    }
+  },
   {
     "saldo": 250,
     "quando": "07/03/24",
