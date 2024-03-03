@@ -1,18 +1,4 @@
 [
-  {
-    "saldo": 0.00,
-    "quando": "00/00/00",
-    "motivos": {
-      "saidas": [
-        "*"
-      ],
-      "entradas": [
-        "*"
-      ]
-    },
-    "valores": {
-      "saidas": [0.00],
-      "entradas": [0.00]
-    }
-  }
+  [],
+  {}
 ]
